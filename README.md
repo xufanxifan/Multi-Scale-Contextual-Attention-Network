@@ -1,6 +1,6 @@
 ### [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623001600)  <br>
 
-Our paper [Hierarchical Multi-Scale Attention for Semantic Segmentation](https://www.sciencedirect.com/science/article/pii/S0924271623001600).<br>
+Our paper [Semantic Segmentation of Urban Building Surface Materials using Multi-Scale Contextual Attention Network](https://www.sciencedirect.com/science/article/pii/S0924271623001600).<br>
 
 
 
