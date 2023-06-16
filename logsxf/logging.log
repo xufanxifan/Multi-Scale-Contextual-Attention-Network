@@ -1,0 +1,71 @@
+Torch version: 1.7, 1.7.0
+dataset = hkscapes
+ignore_label = 255
+num_classes = 8
+cv split test 0 ['test/hongkong']
+mode test found 2003 images
+cn num_classes 8
+Using Cross Entropy Loss
+Using Cross Entropy Loss
+Resuming from: checkpoint=logsxf(test26)/best_checkpoint_ep0.pth, epoch 1, arch selfattocrnet.MscaleOCR_v2
+=> init weights from normal distribution
+=> loading pretrained model /home/user/data/hkscapesplus_gai/seg_weights/hrnetv2_w48_imagenet_pretrained.pth
+Trunk: hrnetv2
+Model params = 76.2M
+validating[Iter: 1 / 2003]
+validating[Iter: 21 / 2003]
+Torch version: 1.7, 1.7.0
+dataset = hkscapes
+ignore_label = 255
+num_classes = 8
+cv split test 0 ['test/hongkong']
+mode test found 2003 images
+cn num_classes 8
+Using Cross Entropy Loss
+Using Cross Entropy Loss
+Resuming from: checkpoint=logsxf(test26)/best_checkpoint_ep0.pth, epoch 1, arch selfattocrnet.MscaleOCR_v2
+Torch version: 1.7, 1.7.0
+dataset = hkscapes
+ignore_label = 255
+num_classes = 8
+cv split test 0 ['test/hongkong']
+mode test found 2003 images
+cn num_classes 8
+Using Cross Entropy Loss
+Using Cross Entropy Loss
+Resuming from: checkpoint=logsxf(test26)/best_checkpoint_ep0.pth, epoch 1, arch selfattocrnet.MscaleOCR_v2
+=> init weights from normal distribution
+=> loading pretrained model /home/user/data/hkscapesplus_gai/seg_weights/hrnetv2_w48_imagenet_pretrained.pth
+Trunk: hrnetv2
+Model params = 76.2M
+validating[Iter: 1 / 2003]
+Torch version: 1.7, 1.7.0
+dataset = hkscapes
+ignore_label = 255
+num_classes = 8
+cv split test 0 ['test/hongkong']
+mode test found 2003 images
+cn num_classes 8
+Using Cross Entropy Loss
+Using Cross Entropy Loss
+Resuming from: checkpoint=logsxf(test26)/best_checkpoint_ep0.pth, epoch 1, arch selfattocrnet.MscaleOCR_v2
+=> init weights from normal distribution
+=> loading pretrained model /home/user/data/hkscapesplus_gai/seg_weights/hrnetv2_w48_imagenet_pretrained.pth
+Trunk: hrnetv2
+Model params = 76.2M
+validating[Iter: 1 / 2003]
+Torch version: 1.7, 1.7.0
+dataset = hkscapes
+ignore_label = 255
+num_classes = 8
+cv split test 0 ['test/hongkong']
+mode test found 2003 images
+cn num_classes 8
+Using Cross Entropy Loss
+Using Cross Entropy Loss
+Resuming from: checkpoint=logsxf(test26)/best_checkpoint_ep0.pth, epoch 1, arch selfattocrnet.MscaleOCR_v2
+=> init weights from normal distribution
+=> loading pretrained model /home/user/data/hkscapesplus_gai/seg_weights/hrnetv2_w48_imagenet_pretrained.pth
+Trunk: hrnetv2
+Model params = 76.2M
+validating[Iter: 1 / 2003]
